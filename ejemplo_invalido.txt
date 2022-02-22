@@ -1,0 +1,19 @@
+
+
+(defvar rotate 3)
+
+(defun blocked-p ()
+    (defvar name 3) (skip))
+
+(if (not (can-move-p :north)) (move 1) (skip))
+
+(
+(if (facing-p :north) ((move 1)) ((skip)))
+(turn :left)
+)
+
+(defun foo (c p)
+    (move c))
+
+(foo 1 3 4)
+
