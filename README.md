@@ -1,7 +1,7 @@
 # Integrantes
 
 #### Daniel Reales (201822265)
-#### 
+#### Juan Sebastian Pinzon (202013144)
 
 
 # Aclaraciones Importantes
